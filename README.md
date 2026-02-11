@@ -8,7 +8,7 @@ This project is developed to automate common **system administration, file manip
 
 ---
 
-### 📂 Dosyalar / Files
+###  Dosyalar / Files
 
 * **`myprog1.sh`**: Metin dosyası içindeki kelime frekans analizi (Word Frequency Analysis).
 * **`myprog2.sh`**: Belirli dosyaları tarihli bir klasöre yedekleme (Auto Backup).
@@ -18,7 +18,7 @@ This project is developed to automate common **system administration, file manip
 
 ---
 
-### 🚀 Kurulum / Setup
+###  Kurulum / Setup
 
 Scriptleri çalıştırmak için dosyalara izin vermeniz yeterlidir.
 To run the scripts, simply grant execution permissions:
